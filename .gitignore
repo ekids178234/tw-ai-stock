@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+*.log
+train_out.txt
+chip_names.txt
+twse_*.txt
+price_names.txt
+finlab_fs.txt
+finlab_etl.txt
+# keep cache parquet for cloud loading
+# cache/*.parquet  (do NOT ignore)

@@ -1,0 +1,11 @@
+streamlit==1.37.1
+pandas==2.3.3
+numpy==1.26.4
+lightgbm==4.6.0
+scikit-learn==1.8.0
+joblib==1.5.3
+pyarrow==16.1.0
+python-dotenv==0.21.0
+FinMind==1.9.2
+shap==0.54.1
+"""
